@@ -43,7 +43,7 @@ Around the 53 day mark we can see a sharp increase in Wikipedia traffic, and a
 sharp decrease in stock price. I decided to look up the day which was March 23rd, 2016, and one of the top stories was Alphabet released it's first quarter earnings
 and it didn't live up to investors' expectations.
 
-Here are a few more plots, most of them being large banks, that I found fairly interesting. You can view another 40+ plots in the Plots folder above.
+Here are a few more plots, most of them being of large banks or multinational corporations, that I found fairly interesting. You can view another 40+ plots in the /Plots folder above.
 
 ![3M](/Plots/3M%20Company.png)
 </br>
@@ -55,3 +55,14 @@ Here are a few more plots, most of them being large banks, that I found fairly i
 </br>
 <img src="Plots/Gap%20(The).png">
 </br>
+![Perrigo](Plots/Perrigo.png)
+<br>
+
+Interesting how Johnson & Johnson's has relatively stable stock & Wikipedia traffic:
+![J&J](Plots/Johnson%20%26%20Johnson.png)
+
+
+# Take away
+Is analyzing Wikipedia page view data the best way to decide what
+stocks to invest in? Probably not. But it can be another data point for investors to
+take into account.
