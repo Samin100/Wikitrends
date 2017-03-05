@@ -65,4 +65,4 @@ Interesting how Johnson & Johnson's has relatively stable stock & Wikipedia traf
 # Take away
 Is analyzing Wikipedia page view data the best way to decide what
 stocks to invest in? Probably not. But it can be another data point for investors to
-take into account.
+take into account. Feel free to check out the code used to pull the data and plot it in Process.py above.
