@@ -53,5 +53,5 @@ Here are a few more plots, most of them being large banks, that I found fairly i
 </br>
 ![Bank of America](Plots/Bank%20of%20America%20Corp.png)
 </br>
-![GAP](Plots/Gap%20\(The).png)
+<img src="Plots/Gap%20(The).png">
 </br>
