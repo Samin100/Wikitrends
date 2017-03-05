@@ -27,6 +27,7 @@ plot so I decided to plot percentage change per day instead of the actual amount
 different scales.
 
 # Plots and conclusion
+For my range, I tried scales as large as 3 years, and as small as 2 weeks. I decided to focus on 2 months since it provided enough data to be able to analyze easily yet not be overly crowded. The date range is 60 days beginning at March 1st, 2016.
 After plotting all 500 companies and outputting it to a folder, I was able to notice
 a common trend simply by looking at a few of the plots. An increase in Wikipedia
 page traffic can either mean a stock is about to go up or down. This makes sense
@@ -37,3 +38,20 @@ falling quickly.
 Here's a plot of Alphabet (Google's parent company):
 
 ![Alphabet](/Plots/Alphabet%20Inc%20Class%20C.png)
+
+Around the 53 day mark we can see a sharp increase in Wikipedia traffic, and a
+sharp decrease in stock price. I decided to look up the day which was March 23rd, 2016, and one of the top stories was Alphabet released it's first quarter earnings
+and it didn't live up to investors' expectations.
+
+Here are a few more plots, most of them being large banks, that I found fairly interesting. You can view another 40+ plots in the Plots folder above.
+
+![3M](/Plots/3M%20Company.png)
+</br>
+![Abbott](Plots/Abbott%20Laboratories.png)
+</br>
+![BBT](Plots/BB%26T%20Corporation.png)
+</br>
+![Bank of America](Plots/Bank%20of%20America%20Corp.png)
+</br>
+![GAP](Plots/Gap%20\(The).png)
+</br>
