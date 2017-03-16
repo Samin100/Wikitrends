@@ -1,7 +1,6 @@
 # Introduction
 <b>Currently developing a Quantopian trading algorithm that utilizes this data. If you'd like to contribute feel free to contact me.</b>
-
-For my data visualization assignment, I decided to see if there was any correlation between stock prices for companies in the S&P 500 and how much traffic
+I decided to see if there was any correlation between stock prices for companies in the S&P 500 and how much traffic
 its Wikipedia page gets. The logic behind it being a sudden increases of visitors to a company's Wikipedia page may be cause for concern and allow us to
 predict stock price fluctuations ahead of time.
 
